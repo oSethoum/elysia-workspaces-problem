@@ -1,0 +1,7 @@
+{
+    "name": "elysia-mono",
+    "private": "true",
+    "workspaces": [
+        "apps/*"
+    ]
+}
